@@ -1,0 +1,2 @@
+# AN-IOT-ENABLED-AUTOMOUS-POWER-TRANSMISSION-ROBOT-
+GridGuard is a low-cost ESP32-based power transmission line inspection robot with controlled movement, obstacle detection, temperature monitoring, ESP32-CAM video, and Blynk IoT monitoring. This prototype targets safer, efficient inspection with future scope for AI defect detection, thermal imaging, GPS localization, and predictive maintenance too.
